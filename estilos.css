@@ -1,0 +1,70 @@
+/* Estilos para el título */
+h1 {
+    color: #4CAF50;
+    font-size: 36px;
+    text-align: center;
+    border-bottom: 2px solid #4CAF50;
+    padding-bottom: 10px;
+}
+
+/* Estilos para el párrafo */
+p {
+    color: #333333;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+/* Estilos para la imagen */
+.imagen-centro {
+    width: 50%;
+    max-width: 300px;
+    height: auto;
+    border: 5px solid #4CAF50;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Estilos para la lista */
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+    font-size: 18px;
+}
+
+/* Estilos para las tablas */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #4CAF50;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+/* Estilos para los divs */
+.div-contenedor {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+}
+
+.div-titulo {
+    font-size: 24px;
+    color: #4CAF50;
+    font-weight: bold;
+}
